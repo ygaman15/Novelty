@@ -2,7 +2,7 @@
 
 
 
-# Book World
+# ReviewNesr
 
 A full-featured book review and management application built with the MERN stack (`MongoDB`, `Express`, `React`, `Node.js`). Users can browse books, leave reviews with star ratings, and manage their favorites. Admins have extended capabilities for adding, editing, and deleting books, as well as managing user data and access. 
 
@@ -23,8 +23,6 @@ Live Link: [https://book-world-beta.vercel.app/](https://reviewnest-frontend.onr
   - Personalized profiles to track activity.
   - Manage and curate a list of favorite books.
 
-- **Advanced Feature:**
-  - Unique nested commenting system using Depth-First Search (DFS) for efficient comment deletion within the review tree structure.
 
 - **User Roles & Permissions:**
   - Differentiation between user and admin roles.
@@ -35,31 +33,22 @@ Live Link: [https://book-world-beta.vercel.app/](https://reviewnest-frontend.onr
 ## Technologies Used
 
 - **Frontend:**
-  - React.js
-  - Recoil for State Management
-  - Tailwind CSS
-  - Shadcn UI library
-  - React Hook Form
-  - Tanstack Tables
-  - Lucide-React for icons
+  - React.js:For building the interactive user interface.
+  - Tailwind CSS:For responsive and utility-first CSS styling.
+  - Shadcn UI library:For building clean and modern UI components.
+  - React Hook Form:For managing form data efficiently.
 
 
 - **Backend:**
-  - Node.js
-  - Express.js
-  - MongoDB
-  - Mongoose for MongoDB object modeling
-  - Multer for handling `multipart/form-data`
-  - CORS for Cross-Origin Resource Sharing
-  - JWT for token-based authentication
-  - Bcrypt for secure password storage
+  - Node.js & Express.js:For building a RESTful API and handling HTTP requests.
+  - MongoDB & Mongoose:For database management and object modeling.
+  - CORS: For handling cross-origin requests between the frontend and backend
+  - Bcrypt:For hashing passwords and ensuring secure storage.
 
 
 - **Other Dependencies:**
-  - Axios   
-  - Zod for schema validation
-  - React Router DOM for routing
-  - Cloudinary for image uploads (optional)
+  - Axios:For making HTTP requests from the frontend to the backend.   
+  - Cloudinary:For optional image uploads (e.g., book cover images).
 
 ## Installation Guide
 
@@ -72,7 +61,6 @@ You can use use Mongo Atlas URL instead of local MongoDB
 
 ### Configure Environment Variables
 
-Rename .env.example to .env in both backend and frontend directories.
 
 Add your `MONGO_URL`, `JWT_SECRET`, `CLOUD_NAME`, `CLOUD_API_KEY`, `CLOUD_API_SECRET`, and `PORT` to the backend .env files.
 
@@ -84,7 +72,7 @@ If you don't have Cloudinary, you can replace `cloudStorage` with `diskStorage` 
 
 ```shell
 git clone https://github.com/NEET64/book-world.git
-cd book-world
+cd ReviewNest
 ```
 
 #### Install packages
