@@ -81,7 +81,7 @@ You can use use Mongo Atlas URL instead of local MongoDB
 #### Clone the Repository
 
 ```shell
-git clone https://github.com/NEET64/book-world.git
+git clone https://github.com/madhawaawishka/ReviewNest.git
 cd ReviewNest
 ```
 
