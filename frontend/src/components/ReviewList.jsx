@@ -76,7 +76,7 @@ const ReviewList = ({ book, userReplyCounter, setUserReplyCounter }) => {
   return (
     <section className="w-full max-w-5xl m-auto mt-5 overflow-hidden rounded-lg">
       <h2 className="text-2xl font-semibold tracking-tight scroll-m-20 lg:text-3xl">
-        Ratings and Reviews
+        Ratings and Reviewssss
       </h2>
 
       {/* Filter and Sort Dropdowns */}
