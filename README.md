@@ -2,7 +2,7 @@
 
 
 
-# ReviewNes
+# ReviewNest
 
 A full-featured book review and management application built with the MERN stack (`MongoDB`, `Express`, `React`, `Node.js`). Users can browse books, leave reviews with star ratings, and manage their favorites. Admins have extended capabilities for adding, editing, and deleting books, as well as managing user data and access.
 
