@@ -76,11 +76,6 @@ You can use use Mongo Atlas URL instead of local MongoDB
 
 ### Configure Environment Variables
 
-
-Add your `MONGO_URL`, `JWT_SECRET`, `CLOUD_NAME`, `CLOUD_API_KEY`, `CLOUD_API_SECRET`, and `PORT` to the backend .env files.
-
-If you don't have Cloudinary, you can replace `cloudStorage` with `diskStorage` in `/backend/middleware/upload.js`.
-
 ### Installation
 
 #### Clone the Repository
@@ -89,6 +84,16 @@ If you don't have Cloudinary, you can replace `cloudStorage` with `diskStorage` 
 git clone https://github.com/NEET64/book-world.git
 cd ReviewNest
 ```
+
+
+#### Direct to frontend .env file and change:
+
+```shell
+VITE_BACKEND_URL="http://localhost:8000"
+```
+
+
+
 
 #### Install packages
 
