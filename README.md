@@ -1,5 +1,5 @@
-![Homepage]((https://github.com/madhawaawishka/ReviewNest/Screenshot 2024-11-28 174901.png)
-![Tableview](https://github.com/NEET64/book-world/assets/67575976/de404c8a-54a6-405f-b221-e6b62adc7fd9)
+![Homepage]([https://github.com/madhawaawishka/ReviewNest/Screenshot 2024-11-28 174901.png](https://github.com/madhawaawishka/ReviewNest/blob/8efcc6a694de315570b75c958c5e14f28d8b30d4/images/Screenshot%202024-11-28%20174901.png))
+
 
 
 # Book World
