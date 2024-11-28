@@ -8,6 +8,21 @@ A full-featured book review and management application built with the MERN stack
 
 Live Link: [ReviewNest](https://reviewnest-frontend.onrender.com/)
 
+## Sample Logins
+
+#### Admin
+
+
+| Email | Password     |
+| :-------- | :------- |
+| john.doe@example.com |password123 | 
+
+#### user
+
+| Email | Password     |
+| :-------- | :------- |
+| madhawaawishka@gmail.com |12345678 | 
+
 ## Features
 
 - **User Authentication:**
@@ -109,3 +124,22 @@ Now open `localhost:5173` on your browser
 ![All Users](https://github.com/madhawaawishka/ReviewNest/blob/5c07321b5877aca6beec2a4ac28bd9ebbf5c26d3/images/Screenshot%202024-11-28%20175318.png)
 ![Favourites](https://github.com/madhawaawishka/ReviewNest/blob/5c07321b5877aca6beec2a4ac28bd9ebbf5c26d3/images/Screenshot%202024-11-28%20175401.png)
 ![Details1](https://github.com/madhawaawishka/ReviewNest/blob/5c07321b5877aca6beec2a4ac28bd9ebbf5c26d3/images/Screenshot%202024-11-28%20175455.png)
+
+
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://madhawaawishka.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhawaawishka/)
