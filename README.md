@@ -1,4 +1,4 @@
-![Homepage](https://github.com/NEET64/book-world/assets/67575976/f1c41565-9ad9-47d5-86b3-60e95f4f9215)
+![Homepage](images/Screenshot 2024-11-28 174901.png)
 
 # Book World
 
