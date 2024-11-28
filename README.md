@@ -121,8 +121,3 @@ Now open `localhost:5173` on your browser
 ![All Users](https://github.com/madhawaawishka/ReviewNest/blob/5c07321b5877aca6beec2a4ac28bd9ebbf5c26d3/images/Screenshot%202024-11-28%20175318.png)
 ![Favourites](https://github.com/madhawaawishka/ReviewNest/blob/5c07321b5877aca6beec2a4ac28bd9ebbf5c26d3/images/Screenshot%202024-11-28%20175401.png)
 ![Details1](https://github.com/madhawaawishka/ReviewNest/blob/5c07321b5877aca6beec2a4ac28bd9ebbf5c26d3/images/Screenshot%202024-11-28%20175455.png)
-![User](https://github.com/NEET64/book-world/assets/67575976/b254902a-4aae-4c1f-b05b-7946487a8935)
-![Add New](https://github.com/NEET64/book-world/assets/67575976/e158ccd6-fbed-45ee-849d-1851b922e93c)
-![Login](https://github.com/NEET64/book-world/assets/67575976/54af8184-ada3-434f-8b6e-8f7c864217ed)
-![Signup](https://github.com/NEET64/book-world/assets/67575976/c12a69fe-2e26-4b5f-9407-6b9bf6e1f636)
-
