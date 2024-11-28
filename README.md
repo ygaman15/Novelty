@@ -10,7 +10,6 @@ Live Link: [https://book-world-beta.vercel.app/](https://reviewnest-frontend.onr
 
 - **User Authentication:**
   - Secure user registration and login system.
-  - JWT for authorization.
   - Bcrypt for password hashing.
 
 - **Book Listing with Reviews & Ratings:**
