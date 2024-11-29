@@ -8,7 +8,10 @@ const bookRouter = require("./router/book");
 const userRouter = require("./router/users");
 
 // allow access of the api
-app.use(cors());
+app.use(cors({
+  origin: "https://reviewnest-frontend.onrender.com"
+}));
+
 
 // to support incoming form data in json
 app.use(express.json());
