@@ -9,8 +9,9 @@ const userRouter = require("./router/users");
 
 // allow access of the api
 app.use(cors({
-  origin: "https://reviewnest-frontend.onrender.com"
+  origin: ["https://reviewnest-frontend.onrender.com", "http://localhost:3000"]  // Add localhost for development
 }));
+
 
 
 // to support incoming form data in json
