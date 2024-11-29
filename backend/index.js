@@ -14,10 +14,16 @@ app.use(cors());
 app.use(express.json());
 
 // connect to db
+// connect to db
 mongoose
-  .connect(process.env.MONGO_URL)
+  .connect(process.env.MONGO_URL, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    retryWrites: true,
+  })
   .then(() => console.log("Connected to Database"))
-  .catch(() => console.log("Error Connecting to Database"));
+  .catch((error) => console.error("Error Connecting to Database:", error));
+
 
 const path = require("path");
 app.use("/public", express.static(path.join(__dirname, "./public")));
