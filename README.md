@@ -21,7 +21,7 @@ Live Link: [ReviewNest](https://reviewnest-frontend.onrender.com/)
 
 | Email | Password     |
 | :-------- | :------- |
-| madhawaawishka@gmail.com |12345678 | 
+| ygaman1505@gmail.com |12345678 | 
 
 ## Features
 
